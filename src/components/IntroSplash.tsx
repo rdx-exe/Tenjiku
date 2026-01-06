@@ -263,7 +263,7 @@ export default function IntroSplash({ onFinish }: IntroSplashProps) {
                                     letterSpacing: "2px"
                                 }}
                             >
-                                Travel with confidence,
+                                Travel With Confidence
                             </motion.p>
                         </div>
                         <div style={{ overflow: "hidden" }}>
@@ -280,7 +280,7 @@ export default function IntroSplash({ onFinish }: IntroSplashProps) {
                                     letterSpacing: "2px"
                                 }}
                             >
-                                not confusion.
+                                Not Confusion
                             </motion.p>
                         </div>
                     </motion.div>
